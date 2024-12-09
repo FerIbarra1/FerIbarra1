@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feribarra1&show_icons=true&locale=en" alt="feribarra1" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FerIbarraInowu&show_icons=true&locale=en&layout=compact" alt="FerIbarraInowu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FerIbarraInowu&show_icons=true&locale=en" alt="FerIbarraInowu" /></p>
+<a href="https://cursos.devtalles.com/certificates/hbll5frkg7" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/DgrWi3k.jpeg" alt="c_typescript" width="500" height="320"/> </a>
