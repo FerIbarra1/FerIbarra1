@@ -22,5 +22,5 @@
 
 <a href="https://www.github.com/FeribarraInowu" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/0Q0wNuB.png" alt="StatsInowu" width="680" height="450"/> </a> <br/>
 <a href="https://www.github.com/Feribarra1" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/yhteFf2.png" alt="StatsFerIbarra" width="680" height="550"/> </a>
-<a href="https://cursos.devtalles.com/certificates/0ukjpjpu3m" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/G0ct8M7.jpeg" alt="c_javascript" width="500" height="320"/> </a>
+<a href="https://cursos.devtalles.com/certificates/0ukjpjpu3m" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/G0ct8M7.jpeg" alt="c_javascript" width="500" height="320"/> </a> <br/>
 <a href="https://cursos.devtalles.com/certificates/hbll5frkg7" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/DgrWi3k.jpeg" alt="c_typescript" width="500" height="320"/> </a>
