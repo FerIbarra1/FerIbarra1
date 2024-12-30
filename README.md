@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Fernando Ibarra</h1>
-<h3 align="center">A passionate front-end developer from México</h3>
+<h1 align="center">👋 Hi, I'm Fernando Ibarra</h1>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from México</h3>
 
-- 🔭 I’m currently working on [Inowu Development](https://inowu.dev/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Passionate+About+Tech+%26+Innovation" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Nodejs, Nestjs**
+<a href="https://www.linkedin.com/in/feribarra1" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/qBeHqYl.png" alt="PortadaPortfolio" /> </a> <br/>
 
-- 👯 I’m looking to collaborate on [Video Remixes](https://videoremixes.netlify.app/trends), [WFacturas](https://wfacturas.com/folios), [Entrify](https://www.entrify.mx/), [Pistachio](https://www.pistachio.fi/)
+### 🌟 About Me:
+- 🔭 **I’m currently working on**:  
+  [Inowu Development](https://inowu.dev/)
 
-- 💬 Ask me about **Reactjs, React Native, Javascript, Typescript**
+- 🌱 **I’m currently learning**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 
-- 📫 How to reach me **Fernandooibarra@gmail.com**
+- 👯 **I’m collaborating on**:  
+  [Video Remixes](https://videoremixes.netlify.app/trends)  
+  [WFacturas](https://wfacturas.com/folios)  
+  [Entrify](https://www.entrify.mx/)  
+  [Pistachio](https://www.pistachio.fi/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fernandooibarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandooibarra" height="30" width="40" /></a>
-<a href="https://instagram.com/fernandooibarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandooibarra" height="30" width="40" /></a>
+- 💬 **Ask me about**:  
+  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat)  
+  ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+- 📫 **How to reach me**:  
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Fernandooibarra@gmail.com)
+
+### 🌐 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/feribarra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Fernandooibarra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+  <a href="https://github.com/FeribarraInowu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
