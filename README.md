@@ -26,10 +26,7 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-
-- 📫 **How to reach me**:  
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:Fernandooibarra@gmail.com)
-
+  
 ### 🌐 Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/feribarra/" target="_blank">
