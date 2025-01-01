@@ -29,7 +29,7 @@
   
 ### 🌐 Let's Connect:
 <p align="center">
-  <a href="https://www.linkedin.com/in/feribarra/" target="_blank">
+  <a href="https://www.linkedin.com/in/feribarra1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:Fernandooibarra@gmail.com" target="_blank">
