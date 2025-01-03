@@ -48,6 +48,7 @@
 <a href="https://cursos.devtalles.com/certificates/0ukjpjpu3m" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/G0ct8M7.jpeg" alt="c_javascript" /> </a> <br/>
 <a href="https://cursos.devtalles.com/certificates/hbll5frkg7" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/DgrWi3k.jpeg" alt="c_typescript" /> </a>
 <a href="https://cursos.devtalles.com/certificates/hmg7rnngij" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/vbdUQvc.jpeg" alt="c_openai" /> </a>
+<a href="https://cursos.devtalles.com/certificates/irg3nsjnzj" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3OZvkWV.jpeg" alt="c_tanstack" /> </a>
 <a href="https://www.linkedin.com/learning/certificates/557f513e7ac29edaff10120c047fcaa20e14f49ad5cb22ada78fb992a133c298" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/KZfZAxN.jpeg" alt="CertificadoLinkedinIA" /> </a>
 <a href="https://www.linkedin.com/learning/certificates/6102dccfffdf2a7957f2b873e9b085e337a12fb2e79240241ce644d998838a5d?trk=share_certificate" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/j6bKiCz.jpeg" alt="CertificadoLinkedinAdminSis" /> </a>
 <a href="https://www.linkedin.com/learning/certificates/099ea9806183134afcfa1ba686fc97525ac1e387ae7838aee28dd6db7fa5d48a?trk=share_certificate" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Ey2UJyU.jpeg" alt="CertificadoDesarrolloSoft" /> </a>
