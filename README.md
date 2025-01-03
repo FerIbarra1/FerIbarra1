@@ -9,7 +9,7 @@
 
 ### 🌟 About Me:
 - 🔭 **I’m currently working on**:  
-  <a href="https://inowu.dev/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/lDfEHgS.png" alt="logoInowu" /> </a>
+  <a href="https://inowu.dev/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/GI6sAoD.png" alt="logoInowu" /> </a>
 
 - 🌱 **I’m currently learning**:  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
