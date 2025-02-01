@@ -20,12 +20,6 @@
   [WFacturas](https://wfacturas.com/folios)  
   [Entrify](https://www.entrify.mx/)  
   [Pistachio](https://www.pistachio.fi/)
-
-- 💬 **Ask me about**:  
-  ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat)  
-  ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
   
 ### 🌐 Let's Connect:
 <p align="center">
@@ -46,6 +40,7 @@
 <a href="https://www.github.com/FeribarraInowu" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/0Q0wNuB.png" alt="StatsInowu" /> </a> <br/>
 <a href="https://www.github.com/Feribarra1" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/yhteFf2.png" alt="StatsFerIbarra" /> </a>
 <a href="https://cursos.devtalles.com/certificates/0ukjpjpu3m" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/G0ct8M7.jpeg" alt="c_javascript" /> </a> <br/>
+<a href="https://cursos.devtalles.com/certificates/1tufqctqtl" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/uOyBwvP.jpeg" alt="c_react" /> </a>
 <a href="https://cursos.devtalles.com/certificates/hbll5frkg7" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/DgrWi3k.jpeg" alt="c_typescript" /> </a>
 <a href="https://cursos.devtalles.com/certificates/hmg7rnngij" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/vbdUQvc.jpeg" alt="c_openai" /> </a>
 <a href="https://cursos.devtalles.com/certificates/irg3nsjnzj" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3OZvkWV.jpeg" alt="c_tanstack" /> </a>
