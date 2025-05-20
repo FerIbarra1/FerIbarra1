@@ -45,6 +45,7 @@
 <a href="https://cursos.devtalles.com/certificates/hbll5frkg7" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/DgrWi3k.jpeg" alt="c_typescript" /> </a>
 <a href="https://cursos.devtalles.com/certificates/hmg7rnngij" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/vbdUQvc.jpeg" alt="c_openai" /> </a>
 <a href="https://cursos.devtalles.com/certificates/irg3nsjnzj" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/3OZvkWV.jpeg" alt="c_tanstack" /> </a>
+<a href="https://cursos.devtalles.com/certificates/etbadnszea" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/kHXedJz.jpeg" alt="c_reactrouter" /> </a>
 <a href="https://cursos.devtalles.com/certificates/igzbv9zjly" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/dF9hMUJ.jpeg" alt="c_zustand" /> </a>
 <a href="https://cursos.devtalles.com/certificates/f5vsw3jrvt" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/xKye8go.jpeg" alt="c_nextjs" /> </a>
 <a href="https://cursos.devtalles.com/certificates/60yhalceu6" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/1TU18ZR.jpeg" alt="c_git_github" /> </a>
